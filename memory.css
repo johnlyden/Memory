@@ -6,3 +6,16 @@
   padding: 24px;
   margin: 0px auto;
 }
+
+#memory_board > div {
+  background: red;
+  border: #000 1px solid;
+  width: 71px;
+  height: 71px;
+  floadt: left;
+  margin: 10px;
+  padding: 20px;
+  font-size: 64px;
+  cursor: pointer;
+  text-align: center;
+}
